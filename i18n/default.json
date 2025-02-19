@@ -1,0 +1,7 @@
+﻿{
+  "OMEGAlinc.SummonNPCs.CommandDescription": "Summon an NPC to your location. Usage: summonnpc [npc name]",
+  "OMEGAlinc.SummonNPCs.ErrorUsage": "Usage: summonnpc [npc name]",
+  "OMEGAlinc.SummonNPCs.ErrorNPCNotFound": "NPC '{0}' not found.",
+  "OMEGAlinc.SummonNPCs.ErrorNoPlayerLocation": "Error: Player location not found.",
+  "OMEGAlinc.SummonNPCs.Success": "Summoned {0} to your location."
+}

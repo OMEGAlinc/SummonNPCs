@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Summon NPCs",
+  "Author": "OMEGAlinc",
+  "Version": "1.0.0",
+  "Description": "Adds a command to summon an NPC to the player's location.",
+  "UniqueID": "OMEGAlinc.SummonNPCs",
+  "EntryDll": "SummonNPCs.dll",
+  "MinimumApiVersion": "3.0",
+  "UpdateKeys": []
+}
